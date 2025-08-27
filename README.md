@@ -106,8 +106,8 @@ Processes an image and returns detected plates with bounding boxes.
 ## 📊 Model Training
 
 The model was trained using the Roboflow dataset with the following specifications:
-- Dataset: ANPR2 (8th version)
-- Model: YOLOv8
+- Dataset: [ANPR2 (8th version)](https://universe.roboflow.com/arvind-kumar-wjygd/anpr2-syxl7/dataset/8#)
+- Model: YOLOv11
 - Epochs: 60
 - Image Size: 640x640
 
