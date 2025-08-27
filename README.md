@@ -143,6 +143,9 @@ Training details can be found in the [notebook](notebook/Automatic_number_plate_
 - [Streamlit](https://streamlit.io/) for the frontend framework
 
 ## Contact 📧
-- Author: L.Mithurshan 
-- Project: Automatic Number Plate Recognition with YOLO
-- For questions or issues, please open an issue on GitHub or contact [ldotmithurshan222@gmail.com].
+- **Author:** L. Mithurshan  
+- **Project:** Automatic Number Plate Recognition with YOLO  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mithurshan6)  
+- **Email:** [ldotmithurshan222@gmail.com](mailto:ldotmithurshan222@gmail.com)  
+- For questions or issues, please open an issue on GitHub or reach out via email.
+
