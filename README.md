@@ -6,7 +6,7 @@ Automatic Number Plate Recognition (ANPR) system built with YOLOv11 for object d
 
 ## 🎯 Features
 
-- **Real-time Detection**: Detects license plates in images using YOLOv8
+- **Real-time Detection**: Detects license plates in images using YOLOv11
 - **Text Extraction**: Extracts plate numbers using EasyOCR
 - **Web Interface**: Streamlit-based frontend for easy interaction
 - **API Service**: FastAPI backend for processing requests
