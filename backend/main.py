@@ -18,7 +18,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-model = YOLO("backend/weights/best.pt")
+model = YOLO("weights/best.pt")
 reader = easyocr.Reader(['en'], gpu=False)
 
 def image_to_base64(img):
