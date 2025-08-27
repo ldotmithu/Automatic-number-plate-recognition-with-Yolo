@@ -2,7 +2,7 @@
 
 ![ANPR Demo](https://raw.githubusercontent.com/ldotmithu/Automatic-number-plate-recognition-with-Yolo/main/assets/demo.gif)
 
-Automatic Number Plate Recognition (ANPR) system built with YOLOv8 for object detection and EasyOCR for text extraction. This project can detect and recognize vehicle license plates from images in real-time.
+Automatic Number Plate Recognition (ANPR) system built with YOLOv11 for object detection and EasyOCR for text extraction. This project can detect and recognize vehicle license plates from images in real-time.
 
 ## 🎯 Features
 
@@ -95,16 +95,6 @@ POST /predict
 ```
 Processes an image and returns detected plates with bounding boxes.
 
-**Request:**
-- Form data with `file` parameter containing the image
-
-**Response:**
-```json
-{
-  "plates": ["KA01AB1234", ...],
-  "image": "base64_encoded_annotated_image"
-}
-```
 
 ## 🧠 How It Works
 
@@ -139,25 +129,10 @@ Training details can be found in the [notebook](notebook/Automatic_number_plate_
 - Pillow - Image handling
 
 ## 📸 Example Results
+![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-08-27%20141952.png)
 
-| Original Image | Detected Plates |
-|----------------|-----------------|
-| ![Original](assets/sample1.jpg) | ![Detected](assets/result1.jpg) |
-| ![Original](assets/sample2.jpg) | ![Detected](assets/result2.jpg) |
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
@@ -167,6 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend framework
 - [Streamlit](https://streamlit.io/) for the frontend framework
 
-## 📧 Contact
-
-For any questions or feedback, please open an issue on GitHub.
+## Contact 📧
+- Author: L.Mithurshan 
+- Project: Automatic Number Plate Recognition with YOLO
+- For questions or issues, please open an issue on GitHub or contact [ldotmithurshan222@gmail.com].
