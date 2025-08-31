@@ -4,6 +4,8 @@
 
 
 Automatic Number Plate Recognition (ANPR) system built with YOLOv11 for object detection and EasyOCR for text extraction. This project can detect and recognize vehicle license plates from images in real-time.
+
+
 ![🎥 Demo Video](https://drive.google.com/file/d/1hph2oxjHLozs1JbmNoN6VVPS2DJeKiLf/view)
 
 ## 🎯 Features
