@@ -116,9 +116,9 @@ The model was trained using the Roboflow dataset with the following specificatio
 - Epochs: 60
 - Image Size: 640x640
 - Training Result
-  ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20153357.png)
+- ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20153357.png)
 - Val Result
-  ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20152919.png)
+- ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20152919.png)
 
 Training details can be found in the [notebook](notebook/Automatic_number_plate_recognition_with_Yolo.ipynb).
 
