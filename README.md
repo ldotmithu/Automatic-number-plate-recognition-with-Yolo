@@ -2,7 +2,12 @@
 
 ![ANPR Demo](https://raw.githubusercontent.com/ldotmithu/Automatic-number-plate-recognition-with-Yolo/main/assets/demo.gif)
 
+
 Automatic Number Plate Recognition (ANPR) system built with YOLOv11 for object detection and EasyOCR for text extraction. This project can detect and recognize vehicle license plates from images in real-time.
+
+
+[🎥 Demo Video (Google Drive)](https://drive.google.com/file/d/1hph2oxjHLozs1JbmNoN6VVPS2DJeKiLf/view)
+
 
 ## 🎯 Features
 
@@ -110,6 +115,10 @@ The model was trained using the Roboflow dataset with the following specificatio
 - Model: YOLOv11
 - Epochs: 60
 - Image Size: 640x640
+- Training Result
+- ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20153357.png)
+- Val Result
+- ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-09-01%20152919.png)
 
 Training details can be found in the [notebook](notebook/Automatic_number_plate_recognition_with_Yolo.ipynb).
 
@@ -143,6 +152,9 @@ Training details can be found in the [notebook](notebook/Automatic_number_plate_
 - [Streamlit](https://streamlit.io/) for the frontend framework
 
 ## Contact 📧
-- Author: L.Mithurshan 
-- Project: Automatic Number Plate Recognition with YOLO
-- For questions or issues, please open an issue on GitHub or contact [ldotmithurshan222@gmail.com].
+- **Author:** L. Mithurshan  
+- **Project:** Automatic Number Plate Recognition with YOLO  
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mithurshan6)  
+- **Email:** [ldotmithurshan222@gmail.com](mailto:ldotmithurshan222@gmail.com)  
+- For questions or issues, please open an issue on GitHub or reach out via email.
+
