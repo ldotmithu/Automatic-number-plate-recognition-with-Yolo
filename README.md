@@ -138,7 +138,9 @@ Training details can be found in the [notebook](notebook/Automatic_number_plate_
 - Pillow - Image handling
 
 ## 📸 Example Results
+```
 ![image](https://github.com/ldotmithu/Dataset/blob/main/Screenshot%202025-08-27%20141952.png)
+```
 
 
 
